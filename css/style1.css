@@ -1,0 +1,24 @@
+#update_btn
+{
+	border-radius: 7px;
+	background-color: #B81D22;
+	color: white;
+}
+#cont_shopping_btn
+{
+	border-radius: 7px;
+	background-color: #4d0099;
+	
+	text-decoration: none;
+}
+#checkout_btn
+{
+	border-radius: 7px;
+	background-color: #446600;
+	color: white;
+	text-decoration: none;
+
+}
+
+
+

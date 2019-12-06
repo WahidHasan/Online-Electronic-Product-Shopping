@@ -1,0 +1,56 @@
+Fbody{
+	width:6100px;
+	font-family:calibri;
+}
+.Rerror-message {
+	padding: 7px 10px;
+	background: #fff1f2;
+	border: #ffd5da 1px solid;
+	color: #d6001c;
+	border-radius: 4px;
+}
+.Rsuccess-message {
+	padding: 7px 10px;
+	background: #cae0c4;
+	border: #c3d0b5 1px solid;
+	color: #027506;
+	border-radius: 4px;
+}
+kkkdemo-table {
+	background: #d9eeff;
+	width: 100%;
+	border-spacing: initial;
+	margin: 2px 0px;
+	word-break: break-word;
+	table-layout: auto;
+	line-height: 1.8em;
+	color: #333;
+	border-radius: 4px;
+	padding: 20px 40px;
+}
+.Rdemo-table td {
+	padding: 15px 0px;
+}
+.RdemoInputBox {
+	pppadding: 10px 30px;
+	border:  1px solid;
+	border-radius: 4px;
+}
+.btnRegister {
+	padding: 10px 300px;
+	background-color: red;
+	border: 0;
+	color: #FFF;
+	cursor: pointer;
+	border-radius: 4px;
+	margin-left: 10px;
+}
+
+#container
+{
+	background-color: green;
+}
+.container
+{
+	background-color: blue;
+}
